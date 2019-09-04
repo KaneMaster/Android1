@@ -1,0 +1,26 @@
+Включение приложения
+2019-09-04 19:44:01.471 24565-24565/? I/MyTags: OnCreate()
+2019-09-04 19:44:01.701 24565-24565/? I/MyTags: onStart()
+2019-09-04 19:44:01.721 24565-24565/? I/MyTags: onResume()
+
+Смена ориентации экрана
+2019-09-04 19:46:45.503 24565-24565/ru.geekbrains.lifecycle I/MyTags: onPause()
+2019-09-04 19:46:45.521 24565-24565/ru.geekbrains.lifecycle I/MyTags: onSaveInstanceState()
+2019-09-04 19:46:45.534 24565-24565/ru.geekbrains.lifecycle I/MyTags: onStop()
+2019-09-04 19:46:45.548 24565-24565/ru.geekbrains.lifecycle I/MyTags: onDestroy()
+2019-09-04 19:46:45.595 24565-24565/ru.geekbrains.lifecycle I/MyTags: OnCreate()
+2019-09-04 19:46:45.679 24565-24565/ru.geekbrains.lifecycle I/MyTags: onStart()
+2019-09-04 19:46:45.694 24565-24565/ru.geekbrains.lifecycle I/MyTags: onRestoreInstanceState()
+2019-09-04 19:46:45.712 24565-24565/ru.geekbrains.lifecycle I/MyTags: onResume()
+
+Кнопка Home
+2019-09-04 19:47:58.988 24565-24565/ru.geekbrains.lifecycle I/MyTags: onPause()
+2019-09-04 19:47:59.012 24565-24565/ru.geekbrains.lifecycle I/MyTags: onSaveInstanceState()
+2019-09-04 19:47:59.025 24565-24565/ru.geekbrains.lifecycle I/MyTags: onStop()
+
+Кнопка возврата
+2019-09-04 19:49:31.533 27566-27566/ru.geekbrains.lifecycle I/MyTags: onPause()
+2019-09-04 19:49:31.982 27566-27566/ru.geekbrains.lifecycle I/MyTags: onStop()
+2019-09-04 19:49:31.994 27566-27566/ru.geekbrains.lifecycle I/MyTags: onDestroy()
+
+
