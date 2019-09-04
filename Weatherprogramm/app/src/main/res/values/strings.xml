@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Погодная программа</string>
     <string name="first_string">Погода</string>
+    <string name="wind">Скорость ветра</string>
+    <string name="wet">Влажность</string>
+    <string name="temp">+30</string>
+    <string name="wind_val">5 м/с</string>
+    <string name="wet_val">40%</string>
+    <string name="city">Ростов-на-Дону</string>
 </resources>
