@@ -6,5 +6,9 @@
     <string name="temp">+30</string>
     <string name="wind_val">5 м/с</string>
     <string name="wet_val">40%</string>
-    <string name="city">Ростов-на-Дону</string>
+    <string name="button_accept">Применить</string>
+
+    <string name="city">Введите название города:</string>
+    <string name="speed_wind_sel">Показывать скорость ветра</string>
+    <string name="wet_sel">Показывать влажность воздуха</string>
 </resources>
